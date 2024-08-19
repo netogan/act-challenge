@@ -1,4 +1,4 @@
-# Act challenge
+# Carrefour challenge
 
 Document centralizing all challenge information.
 
